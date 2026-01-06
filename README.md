@@ -1,2 +1,2 @@
-# Hello!
-My name is Jaderald (Also known as Jylera)
+> [!CAUTION]
+> This user is extremely stupid!
