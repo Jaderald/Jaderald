@@ -7,7 +7,17 @@ My name is Jaderald (Or Jylera) I am a game developer and modder! I am the prima
 
 ## About me!
 
-I am a college Student who is passionate about programming and games development. I started making Minecraft bedrock mods and scripts in 2019 on a tablet.
+I am a college Student who is passionate about programming and games development.<br>
+I started making Minecraft bedrock mods and scripts in 2019 on a tablet. <br>
+
+### Languages
+
+I primarily code in C# and JavaScript. However, I do know: <br>
+* Java,
+* Python,
+* TypeScript,
+* Lua,
+* A very basic amount of C++,
 
 # Projects
 
@@ -17,3 +27,4 @@ I am a college Student who is passionate about programming and games development
 - Sunset Upon Dawn Game
 
 - Server Anticheat plugin for Minecraft 1.21.5
+- Roblox Game Scripts
