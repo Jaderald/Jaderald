@@ -27,7 +27,7 @@ I primarily code in C# and JavaScript. However, I do know: <br>
 - Server Anticheat plugin for Minecraft 1.21.5
 - Roblox Game Scripts
 
-## [Sunset](https://github.com/Jaderald/Sunset/README.md/)
+## [Sunset](https://github.com/Jaderald/Sunset?tab=readme-ov-file#sunset)
 
 Sunset is my game that I am working on.<br>
 I am the sole developer of this and have coded everything myself from scratch including the original game engine, This game is my passion project and primary focus for development!
