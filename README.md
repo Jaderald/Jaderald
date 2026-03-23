@@ -1,4 +1,4 @@
-# Avary
+# Avary*
 My name is Avary, I'm currently a college student studying **Creative Media**, Specifically game design and art. <br>
 In my free time I work on game modding and web development projects!
 
@@ -40,3 +40,5 @@ I am undergoing the development of 3 major projects currently. <br>
 - A mod for the game Terraria
 ### **Catacombs Report**
 - A website based stat tracking site for Hypixel Skyblock dungeons
+
+*1 Avary is not my real-life name
